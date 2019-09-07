@@ -1,0 +1,7 @@
+.pioenvs
+.piolibdeps
+.pio/
+.vscode/
+*.db
+*.yml
+__pycache__/
