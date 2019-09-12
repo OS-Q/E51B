@@ -18,9 +18,8 @@ SDK 引入了 cJSON 库，使用该库函数可以更加方便的实现对 JSON 
 
 ### [关联资源](https://github.com/OS-Q/)
 
- *  [ Platform : ESP8266](https://github.com/OS-Q/H8) 
+ *  [ Platform H8](https://github.com/OS-Q/H8) 
 *   [Framework N13](https://github.com/OS-Q/N13)
- *  [ M4](https://github.com/OS-Q/M4) 
 
 
 ### [OS-Q = Open Solutions | Open Source |  Operating System ](http://www.OS-Q.com/N12)

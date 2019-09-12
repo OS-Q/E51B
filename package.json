@@ -1,6 +1,6 @@
 {
   "description" : "ESP8266 freeRTOS",
-  "name": "framework-rtos8266",
+  "name": "framework-N12",
   "system": "*",
   "url": "https://github.com/espressif/ESP8266_RTOS_SDK",
   "version": "1.0.0"
