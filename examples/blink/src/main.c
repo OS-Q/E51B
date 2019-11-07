@@ -2,18 +2,6 @@
 #include "freertos/task.h"
 #include "gpio.h"
 
-/******************************************************************************
- * FunctionName : user_rf_cal_sector_set
- * Description  : SDK just reversed 4 sectors, used for rf init data and paramters.
- *                We add this function to force users to set rf cal sector, since
- *                we don't know which sector is free in user's application.
- *                sector map for last several sectors : ABCCC
- *                A : rf cal
- *                B : rf init data
- *                C : sdk parameters
- * Parameters   : none
- * Returns      : rf cal sector
-*******************************************************************************/
 uint32 user_rf_cal_sector_set(void)
 {
     flash_size_map size_map = system_get_flash_size_map();
