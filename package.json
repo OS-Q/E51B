@@ -1,7 +1,7 @@
 {
-  "name": "framework-N12",
-  "description":"freeRTOS Base ESP8266/ESP8285",
+  "description" : "ESP8266 freeRTOS",
+  "name": "framework-esp8266-rtos-sdk",
   "system": "*",
-  "url": "https://github.com/OS-Q/N12",
-  "version": "1.5.0"
+  "url": "https://github.com/OS-Q/F15",
+  "version": "1.5.1"
 }
