@@ -1,4 +1,4 @@
-﻿# [ESP8266 freeRTOS](https://github.com/OS-Q/F15)
+﻿# [F15](https://github.com/OS-Q/F15)
 
 [![sites](http://182.61.61.133/link/resources/OSQ.png)](http://www.OS-Q.com)
 
