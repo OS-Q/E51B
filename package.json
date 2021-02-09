@@ -1,7 +1,7 @@
 {
-  "name": "F15",
+  "name": "F51",
   "description" : "ESP8266 freeRTOS",
   "system": "*",
-  "url": "https://github.com/OS-Q/F15",
+  "url": "https://github.com/OS-Q/F51",
   "version": "1.5.1"
 }
