@@ -2,6 +2,6 @@
   "name": "F51A",
   "description" : "ESP8266 freeRTOS",
   "system": "*",
-  "url": "https://github.com/OS-Q/F51A",
-  "version": "1.5.1"
+  "url": "https://github.com/espressif/ESP8266_RTOS_SDK",
+  "version": "1.5.0"
 }

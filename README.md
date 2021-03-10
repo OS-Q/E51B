@@ -6,8 +6,8 @@
 [![Build Status](https://github.com/OS-Q/F51A/workflows/ubuntu/badge.svg)](https://github.com/OS-Q/F51A/actions/workflows/ubuntu.yml)
 [![Build Status](https://github.com/OS-Q/F51A/workflows/windows/badge.svg)](https://github.com/OS-Q/F51A/actions/workflows/windows.yml)
 [![Build Status](https://github.com/OS-Q/F51A/workflows/PlatformIO/badge.svg)](https://github.com/OS-Q/F51A/actions/workflows/platformio.yml)
-[![Build Status](https://travis-ci.com/OS-Q/P51.svg?branch=master)](https://travis-ci.com/OS-Q/P51)
-[![Build status](https://ci.appveyor.com/api/projects/status/onjfmhvg7g6u5dqk?svg=true)](https://ci.appveyor.com/project/Qitas/p51)
+[![Build Status](https://travis-ci.com/OS-Q/F51A.svg?branch=master)](https://travis-ci.com/OS-Q/F51A)
+[![Build status](https://ci.appveyor.com/api/projects/status/mmf19nlm4o1bd5ol?svg=true)](https://ci.appveyor.com/project/Qitas/f51a)
 
 ### [简介](https://github.com/OS-Q/F51A/wiki)
 
