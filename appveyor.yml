@@ -1,0 +1,15 @@
+build: off
+environment:
+
+  matrix:
+    - PLATFORMIO_PROJECT_DIR: "tests/blink"
+
+
+install:
+  - cmd: git submodule update --init --recursive
+  - cmd: SET PATH=C:\Python37\Scripts;%PATH%
+  - cmd: pip3 install -U https://github.com/OS-Q/S03/archive/master.zip
+  - cmd: qio platform install https://github.com/OS-Q/P51.git
+
+test_script:
+- cmd: qio run -d %PLATFORMIO_PROJECT_DIR%
