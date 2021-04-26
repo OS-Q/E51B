@@ -1,7 +1,17 @@
 {
-  "name": "E51B",
-  "description" : "ESP8266 freeRTOS",
-  "system": "*",
-  "url": "https://github.com/espressif/ESP8266_RTOS_SDK",
-  "version": "1.5.0"
+  "name": "framework-esp8266-rtos-sdk",
+  "version": "1.5.0-beta.5",
+  "description": "Espressif ESP8266 SDK based on FreeRTOS",
+  "keywords": [
+    "framework",
+    "sdk",
+    "esp8266",
+    "freertos",
+    "espressif"
+  ],
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/espressif/ESP8266_RTOS_SDK"
+  }
 }
